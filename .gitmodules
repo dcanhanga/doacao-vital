@@ -1,0 +1,3 @@
+[submodule "doacao-vital-api"]
+	path = doacao-vital-api
+	url = git@github.com:dcanhanga/doacao-vital-api.git
